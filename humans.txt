@@ -1,0 +1,5 @@
+Site: AT&T Email Help Guide
+Purpose: Independent informational reference
+Maintained by: mailhelpdesk
+Technology: GitHub Pages
+Language: English
