@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mailhelpdesk.github.io/attmailguide/sitemap.xml
